@@ -5,7 +5,7 @@
  | Bezpłatna opieka medyczna dla uchodźców z Ukrainy | Безкоштовна медична допомога для біженців з України |
  | | [www.znanylekarz.pl/dla-ukrainy ](https://www.znanylekarz.pl/dla-ukrainy ) |
 
-## Formalnosci po przyjezdzie do Polski / Формальності після прибуття на польську мову
+## Formalności / Формальності
  |  |  | 
  | -------|------------|
  | Całodobowa infolinia dla ofiar uchodźców z Ukrainy w języku ukraińskim | Цілодобова лінія допомоги потерпілим для біженців з України українською мовою | 
