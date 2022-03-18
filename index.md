@@ -6,6 +6,8 @@
  | -------|------------|
  | Bezpłatna opieka medyczna dla uchodźców z Ukrainy | Безкоштовна медична допомога для біженців з України |
  | | [www.znanylekarz.pl/dla-ukrainy ](https://www.znanylekarz.pl/dla-ukrainy ) |
+ | Znajdź terapeutę, który bezplatnie wspiera Ukrainę | Знайдіть терапевта, який безкоштовно підтримує Україну |
+ | | [complicated.life/en/find-help-with/therapists-for-ukraine] (https://complicated.life/en/find-help-with/therapists-for-ukraine) |
 
 ### Formalności / Формальності
 
@@ -39,4 +41,4 @@
  | Wiza i pobyt w Wielkie Brytani | Віза та перебування у Великій Британії |
  | | [homesforukraine.campaign.gov.uk](https://homesforukraine.campaign.gov.uk/) |
 
-Aktualizowano / Оновлено 18/03/2022 23:03
+Aktualizowano / Оновлено 18/03/2022 23:17
