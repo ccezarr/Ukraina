@@ -1,11 +1,11 @@
-## Opieka medyczna / Медичний
+### Opieka medyczna / Медичний
 
  |  |  | 
  | -------|------------|
  | Bezpłatna opieka medyczna dla uchodźców z Ukrainy | Безкоштовна медична допомога для біженців з України |
  | | [www.znanylekarz.pl/dla-ukrainy ](https://www.znanylekarz.pl/dla-ukrainy ) |
 
-## Formalności / Формальності
+### Formalności / Формальності
 
  |  |  | 
  | -------|------------|
@@ -15,7 +15,7 @@
  | Legalny pobyt w Polsce | Легальне перебування на території Польщі  |
  | | [www.gov.pl/web/ua](https://www.gov.pl/web/ua) |
  
-## Pomoc finansowa / Фінансова допомога
+### Pomoc finansowa / Фінансова допомога
  
  |  |  | 
  | -------|------------|
@@ -24,7 +24,7 @@
  | Uchodźcy z Ukrainy maja dostęp do świadczeń, w tym do 500+ i Rodzinnego Kapitału Opiekuńczego. Aby złożyć wniosek wymagane sa PESEL, konto w banku oraz polski numer telefonu | Біженці з України мають доступ до пільг, включаючи 500+ та Сімейний капітал. Для подачі заявки необхідно номер PESEL, банківський рахунок і номер телефону польський |
  | | [www.infor.pl](https://www.infor.pl/prawo/nowosci-prawne/5436898,Uchodzcy-z-Ukrainy-uzyskaja-dostep-do-500-plus-i-Rodzinnego-Kapitalu-Opiekunczego.html#:~:text=Dzi%C4%99ki%20specustawie%20uchod%C5%BAcy%20z%20Ukrainy,Gertruda%20U%C5%9Bci%C5%84ska.) |
 
-## Mieszkanie / Квартира
+### Mieszkanie / Квартира
 
  |  |  | 
  | -------|------------|
@@ -37,4 +37,4 @@
  | Wiza i pobyt w Wielkie Brytani | Віза та перебування у Великій Британії |
  | | [homesforukraine.campaign.gov.uk](https://homesforukraine.campaign.gov.uk/) |
 
-Aktualizowano / Оновлено 18/03/2022 23:02
+Aktualizowano / Оновлено 18/03/2022 23:03
