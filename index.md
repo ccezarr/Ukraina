@@ -1,11 +1,12 @@
 ## Opieka medyczna / Медичний
 
- | Polski | Українська | 
+ |  |  | 
  | -------|------------|
  | Bezpłatna opieka medyczna dla uchodźców z Ukrainy | Безкоштовна медична допомога для біженців з України |
  | | [www.znanylekarz.pl/dla-ukrainy ](https://www.znanylekarz.pl/dla-ukrainy ) |
 
 ## Formalności / Формальності
+
  | Polski | Українська | 
  | -------|------------|
  | Całodobowa infolinia dla ofiar uchodźców z Ukrainy w języku ukraińskim | Цілодобова лінія допомоги потерпілим для біженців з України українською мовою | 
@@ -15,6 +16,7 @@
  | | [www.gov.pl/web/ua](https://www.gov.pl/web/ua) |
  
  ## Pomoc finansowa / Фінансова допомога
+ 
  | Polski | Українська | 
  | -------|------------|
  | Można uzyskać jednorazową pomoc finansową w wysokości 300 zł na pokrycie najbardziej niezbednych kosztow | Ви можете отримати одноразову матеріальну допомогу в розмірі 300 злотих на покриття найневідкладніших витрат |
@@ -23,6 +25,7 @@
  | | [www.infor.pl](https://www.infor.pl/prawo/nowosci-prawne/5436898,Uchodzcy-z-Ukrainy-uzyskaja-dostep-do-500-plus-i-Rodzinnego-Kapitalu-Opiekunczego.html#:~:text=Dzi%C4%99ki%20specustawie%20uchod%C5%BAcy%20z%20Ukrainy,Gertruda%20U%C5%9Bci%C5%84ska.) |
 
 ## Mieszkanie / Квартира
+
  | Polski | Українська | 
  | -------|------------|
  | Polacy, którzy zapewniają Ukraińcom zakwaterowanie i wyżywienie mogą otrzymać 40 zł za osobę na każdy dzień | Поляки, які забезпечують українців житлом і харчуванням, можуть отримувати 40 злотих на людину за кожен день |
@@ -34,4 +37,4 @@
  | Wiza i pobyt w Wielkie Brytani | Віза та перебування у Великій Британії |
  | | [homesforukraine.campaign.gov.uk](https://homesforukraine.campaign.gov.uk/) |
 
-Aktualizowano / Оновлено 18/03/2022 22:59
+Aktualizowano / Оновлено 18/03/2022 23:00
