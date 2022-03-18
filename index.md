@@ -7,7 +7,7 @@
 
 ## Formalności / Формальності
 
- | Polski | Українська | 
+ |  |  | 
  | -------|------------|
  | Całodobowa infolinia dla ofiar uchodźców z Ukrainy w języku ukraińskim | Цілодобова лінія допомоги потерпілим для біженців з України українською мовою | 
  | | +48 222 309 900 |
@@ -15,9 +15,9 @@
  | Legalny pobyt w Polsce | Легальне перебування на території Польщі  |
  | | [www.gov.pl/web/ua](https://www.gov.pl/web/ua) |
  
- ## Pomoc finansowa / Фінансова допомога
+## Pomoc finansowa / Фінансова допомога
  
- | Polski | Українська | 
+ |  |  | 
  | -------|------------|
  | Można uzyskać jednorazową pomoc finansową w wysokości 300 zł na pokrycie najbardziej niezbednych kosztow | Ви можете отримати одноразову матеріальну допомогу в розмірі 300 злотих на покриття найневідкладніших витрат |
  | | [www.gov.pl/web/ua](https://www.gov.pl/web/ua) |
@@ -26,7 +26,7 @@
 
 ## Mieszkanie / Квартира
 
- | Polski | Українська | 
+ |  |  | 
  | -------|------------|
  | Polacy, którzy zapewniają Ukraińcom zakwaterowanie i wyżywienie mogą otrzymać 40 zł za osobę na każdy dzień | Поляки, які забезпечують українців житлом і харчуванням, можуть отримувати 40 злотих на людину за кожен день |
  | | [www.gov.pl/web/mswia/srodki-finansowe-dla-osob-pomagajacym-obywatelom-ukrainy](https://www.gov.pl/web/mswia/srodki-finansowe-dla-osob-pomagajacym-obywatelom-ukrainy)|
@@ -37,4 +37,4 @@
  | Wiza i pobyt w Wielkie Brytani | Віза та перебування у Великій Британії |
  | | [homesforukraine.campaign.gov.uk](https://homesforukraine.campaign.gov.uk/) |
 
-Aktualizowano / Оновлено 18/03/2022 23:00
+Aktualizowano / Оновлено 18/03/2022 23:02
