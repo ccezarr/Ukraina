@@ -1,6 +1,6 @@
 # Informacje dla uchodźców z Ukrainy / Інформація для Укранців у Польщі
 
-### Opieka medyczna / Медичний
+### Opieka medyczna / Медична допомога
 
  |  |  | 
  | -------|------------|
@@ -41,7 +41,7 @@
  | Wymiana Hrywny na Zlotowki | Заміна гривні на Злотівки 🆕 |
  | | [reuters.com/business/finance/polish-central-bank-programme-allow-ukrainians-convert-cash-2022-03-18/](https://www.reuters.com/business/finance/polish-central-bank-programme-allow-ukrainians-convert-cash-2022-03-18/) |
 
-### Mieszkanie / Квартира
+### Zakwaterowanie / Проживання
 
  |  |  | 
  | -------|------------|
@@ -56,6 +56,6 @@
  | Mieszkanie lub transportu na terenie Polski | Квартира або транспорт в польській мові 🆕 |
  | | [ukrainesupport.net/uk/](https://ukrainesupport.net/uk/)
 
-Aktualizowano / Оновлено 19/03/2022 21:53Z
+Aktualizowano / Оновлено 19/03/2022 21:55Z
 
 ![QR](QR-250.png)
