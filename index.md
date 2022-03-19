@@ -15,11 +15,20 @@
  | -------|------------|
  | Całodobowa infolinia dla ofiar uchodźców z Ukrainy w języku ukraińskim | Цілодобова лінія допомоги потерпілим для біженців з України українською мовою | 
  | | +48 222 309 900 |
-| Numer PESEL daje możliwość skorzystania z procedury rozwiązywania problemów, która jest już dostępna w Polsce | Номер PESEL надає тобі можливість скористатись процедурою вирішення питань, яка вже наявна в Польщі |
+| Numer PESEL daje możliwość skorzystania z procedury rozwiązywania problemów, która jest już dostępna w Polsce | Номер PESEL (Індетефікаційний номер) надає тобі можливість скористатись процедурою вирішення питань, яка вже наявна в Польщі |
  | Legalny pobyt w Polsce | Легальне перебування на території Польщі  |
  | | [gov.pl/web/ua](https://www.gov.pl/web/ua) |
  | Konto bankowe w Polsce | як відкрити рахунок у польському банку  |
  | | [polsha24.com/novosti/kak-otkryt-schet-ukraintsu-v-polshe-kratkii-spravochnik-11324/](https://polsha24.com/novosti/kak-otkryt-schet-ukraintsu-v-polshe-kratkii-spravochnik-11324/)
+ | Informacje dla obywateli Ukrainy potrzebujących tymczasowej ochrony | Корисна інформація для громадян України, які потребують тимчасового захисту |
+ | | [gov.pl/web/udsc/ukraina](https://www.gov.pl/web/udsc/ukraina)
+ | Infolinie w sprawie pomocy konsularnej dla obywateli Ukrainy | Гарячі лінії з питань надання консульської допомоги громадянам України |
+ | | Посольство України в Польщі: + 48 698 976 373 |
+ | | Генконсульство у Кракові: +48 669 352 962 |
+ | | Генконсульство у Любліні: +48 784 138 555 |
+ | | Генконсульство у Вроцлаві: + 48 786 203 025 |
+ | | Консульство у Гданську: +48 603654333 |
+
  
 ### Pomoc finansowa / Фінансова допомога
  
