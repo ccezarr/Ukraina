@@ -38,7 +38,7 @@
  | | [gov.pl/web/ua](https://www.gov.pl/web/ua) |
  | Uchodźcy z Ukrainy maja dostęp do świadczeń, w tym do 500+ i Rodzinnego Kapitału Opiekuńczego. Aby złożyć wniosek wymagane sa PESEL, konto w banku oraz polski numer telefonu | Біженці з України мають доступ до пільг, включаючи 500+ та Сімейний капітал. Для подачі заявки необхідно номер PESEL, банківський рахунок і номер телефону польський |
  | | [infor.pl](https://www.infor.pl/prawo/nowosci-prawne/5436898,Uchodzcy-z-Ukrainy-uzyskaja-dostep-do-500-plus-i-Rodzinnego-Kapitalu-Opiekunczego.html#:~:text=Dzi%C4%99ki%20specustawie%20uchod%C5%BAcy%20z%20Ukrainy,Gertruda%20U%C5%9Bci%C5%84ska.) |
- | Wymiana Hrywny na Zlotowki | Заміна гривні на Злотівки 🆕 🏴󠁧󠁢󠁥󠁮󠁧󠁿 |
+ | Wymiana Hrywny na Zlotowki | Заміна гривні на Злотівки 🆕 |
  | | [reuters.com/business/finance/polish-central-bank-programme-allow-ukrainians-convert-cash-2022-03-18/](https://www.reuters.com/business/finance/polish-central-bank-programme-allow-ukrainians-convert-cash-2022-03-18/) |
 
 ### Mieszkanie / Квартира
@@ -56,4 +56,4 @@
  | Mieszkanie lub transportu na terenie Polski | Квартира або транспорт в польській мові :new: |
  | | [ukrainesupport.net/uk/](https://ukrainesupport.net/uk/)
 
-Aktualizowano / Оновлено 19/03/2022 21:30Z
+Aktualizowano / Оновлено 19/03/2022 21:34Z
