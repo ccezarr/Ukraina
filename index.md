@@ -20,9 +20,9 @@
  | | [gov.pl/web/ua](https://www.gov.pl/web/ua) |
  | Konto bankowe w Polsce | як відкрити рахунок у польському банку  |
  | | [polsha24.com/novosti/kak-otkryt-schet-ukraintsu-v-polshe-kratkii-spravochnik-11324/](https://polsha24.com/novosti/kak-otkryt-schet-ukraintsu-v-polshe-kratkii-spravochnik-11324/)
- | Informacje dla obywateli Ukrainy potrzebujących tymczasowej ochrony | Корисна інформація для громадян України, які потребують тимчасового захисту |
+ | Informacje dla obywateli Ukrainy potrzebujących tymczasowej ochrony | Корисна інформація для громадян України, які потребують тимчасового захисту :new: |
  | | [gov.pl/web/udsc/ukraina](https://www.gov.pl/web/udsc/ukraina)
- | Infolinie w sprawie pomocy konsularnej dla obywateli Ukrainy | Гарячі лінії з питань надання консульської допомоги громадянам України |
+ | Infolinie w sprawie pomocy konsularnej dla obywateli Ukrainy | Гарячі лінії з питань надання консульської допомоги громадянам України :new: |
  | | Посольство України в Польщі: + 48 698 976 373 |
  | | Генконсульство у Кракові: +48 669 352 962 |
  | | Генконсульство у Любліні: +48 784 138 555 |
@@ -51,5 +51,7 @@
  | | [icanhelp.host](https://icanhelp.host/) |
  | Wiza i pobyt w Wielkie Brytani | Віза та перебування у Великій Британії |
  | | [homesforukraine.campaign.gov.uk](https://homesforukraine.campaign.gov.uk/) |
+ | Mieszkanie lub transportu na terenie Polski | Квартира або транспорт в польській мові :new: |
+ | | [ukrainesupport.net/uk/](https://ukrainesupport.net/uk/)
 
-Aktualizowano / Оновлено 19/03/2022 21:19Z
+Aktualizowano / Оновлено 19/03/2022 21:25Z
