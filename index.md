@@ -56,6 +56,6 @@
  | Mieszkanie lub transportu na terenie Polski | Квартира або транспорт в польській мові 🆕 |
  | | [ukrainesupport.net/uk/](https://ukrainesupport.net/uk/)
 
-Aktualizowano / Оновлено 19/03/2022 21:51Z
+Aktualizowano / Оновлено 19/03/2022 21:53Z
 
-![QR](QR.png)
+![QR](QR-250.png)
