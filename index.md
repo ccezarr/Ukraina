@@ -52,4 +52,4 @@
  | Wiza i pobyt w Wielkie Brytani | Віза та перебування у Великій Британії |
  | | [homesforukraine.campaign.gov.uk](https://homesforukraine.campaign.gov.uk/) |
 
-Aktualizowano / Оновлено 18/03/2022 23:17
+Aktualizowano / Оновлено 19/03/2022 21:19Z
