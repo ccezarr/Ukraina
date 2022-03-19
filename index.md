@@ -18,6 +18,8 @@
 | Numer PESEL daje możliwość skorzystania z procedury rozwiązywania problemów, która jest już dostępna w Polsce | Номер PESEL надає тобі можливість скористатись процедурою вирішення питань, яка вже наявна в Польщі |
  | Legalny pobyt w Polsce | Легальне перебування на території Польщі  |
  | | [gov.pl/web/ua](https://www.gov.pl/web/ua) |
+ | Konto bankowe w Polsce | як відкрити рахунок у польському банку  |
+ | | [polsha24.com/novosti/kak-otkryt-schet-ukraintsu-v-polshe-kratkii-spravochnik-11324/](https://polsha24.com/novosti/kak-otkryt-schet-ukraintsu-v-polshe-kratkii-spravochnik-11324/)
  
 ### Pomoc finansowa / Фінансова допомога
  
