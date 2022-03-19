@@ -1,4 +1,4 @@
-# Informacje dla uchodźców z Ukrainy / Інформація для біженців з України
+# Informacje dla uchodźców z Ukrainy / Інформація для Укранців у Польщі
 
 ### Opieka medyczna / Медичний
 
@@ -56,4 +56,4 @@
  | Mieszkanie lub transportu na terenie Polski | Квартира або транспорт в польській мові 🆕 |
  | | [ukrainesupport.net/uk/](https://ukrainesupport.net/uk/)
 
-Aktualizowano / Оновлено 19/03/2022 21:35Z
+Aktualizowano / Оновлено 19/03/2022 21:43Z
