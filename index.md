@@ -20,9 +20,9 @@
  | | [gov.pl/web/ua](https://www.gov.pl/web/ua) |
  | Konto bankowe w Polsce | як відкрити рахунок у польському банку  |
  | | [polsha24.com/novosti/kak-otkryt-schet-ukraintsu-v-polshe-kratkii-spravochnik-11324/](https://polsha24.com/novosti/kak-otkryt-schet-ukraintsu-v-polshe-kratkii-spravochnik-11324/)
- | Informacje dla obywateli Ukrainy potrzebujących tymczasowej ochrony | Корисна інформація для громадян України, які потребують тимчасового захисту 🆕 |
+ | Informacje dla obywateli Ukrainy potrzebujących tymczasowej ochrony | Корисна інформація для громадян України, які потребують тимчасового захисту |
  | | [gov.pl/web/udsc/ukraina](https://www.gov.pl/web/udsc/ukraina)
- | Infolinie w sprawie pomocy konsularnej dla obywateli Ukrainy | Гарячі лінії з питань надання консульської допомоги громадянам України 🆕 |
+ | Infolinie w sprawie pomocy konsularnej dla obywateli Ukrainy | Гарячі лінії з питань надання консульської допомоги громадянам України |
  | | Посольство України в Польщі: + 48 698 976 373 |
  | | Генконсульство у Кракові: +48 669 352 962 |
  | | Генконсульство у Любліні: +48 784 138 555 |
@@ -38,8 +38,10 @@
  | | [gov.pl/web/ua](https://www.gov.pl/web/ua) |
  | Uchodźcy z Ukrainy maja dostęp do świadczeń, w tym do 500+ i Rodzinnego Kapitału Opiekuńczego. Aby złożyć wniosek wymagane sa PESEL, konto w banku oraz polski numer telefonu | Біженці з України мають доступ до пільг, включаючи 500+ та Сімейний капітал. Для подачі заявки необхідно номер PESEL, банківський рахунок і номер телефону польський |
  | | [infor.pl](https://www.infor.pl/prawo/nowosci-prawne/5436898,Uchodzcy-z-Ukrainy-uzyskaja-dostep-do-500-plus-i-Rodzinnego-Kapitalu-Opiekunczego.html#:~:text=Dzi%C4%99ki%20specustawie%20uchod%C5%BAcy%20z%20Ukrainy,Gertruda%20U%C5%9Bci%C5%84ska.) |
- | Wymiana hrywny na złotówki w banku | Oбмін гривні на злоті в банку 🆕 |
+ | Wymiana hrywny na złotówki w banku | Oбмін гривні на злоті в банку |
  | | [reuters.com/business/finance/polish-central-bank-programme-allow-ukrainians-convert-cash-2022-03-18/](https://www.reuters.com/business/finance/polish-central-bank-programme-allow-ukrainians-convert-cash-2022-03-18/) |
+ | Praca w Polsce | Робота у Польщі 🆕 |
+ | | [pracuj.pl/praca?ua=true](https://www.pracuj.pl/praca?ua=true) |
 
 ### Zakwaterowanie / Проживання
 
@@ -53,9 +55,9 @@
  | | [icanhelp.host](https://icanhelp.host/) |
  | Wiza i pobyt w Wielkie Brytani | Віза та перебування у Великій Британії |
  | | [homesforukraine.campaign.gov.uk](https://homesforukraine.campaign.gov.uk/) |
- | Mieszkanie lub transportu na terenie Polski | Квартира або транспорт в польській мові 🆕 |
+ | Mieszkanie lub transportu na terenie Polski | Квартира або транспорт в польській мові |
  | | [ukrainesupport.net/uk/](https://ukrainesupport.net/uk/)
 
-Aktualizowano / Оновлено 19/03/2022 22:17Z
+Aktualizowano / Оновлено 22/03/2022 11:39Z
 
 ![QR](QR-250.png)
